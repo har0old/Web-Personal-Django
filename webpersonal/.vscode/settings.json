@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "C:\\Users\\hcost\\.virtualenvs\\webDjango\\Scripts\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.pylintArgs": [
+        "--load-plugins=pylint-django",
+    ],
+}
